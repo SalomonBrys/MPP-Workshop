@@ -17,7 +17,7 @@ This can be represented by the following schema:
 |===
 |image:res/mvp.png[mvp pattern, 250]
 |
-The *Model* is responsible for carrying the the data model, and how the data are manipulated/read/stored.
+The *Model* is responsible for carrying the data model, and how the data are manipulated/read/stored.
 
 The *Presenter* is responsible to:
 
